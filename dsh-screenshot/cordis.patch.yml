@@ -1,0 +1,3 @@
+- insert:
+    - id: screenshot
+      name: '@local/dsh-screenshot'

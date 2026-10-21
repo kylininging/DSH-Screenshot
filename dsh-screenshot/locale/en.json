@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Composer Screenshot",
+    "description": "Adds a capture button to the composer tool row. Pick hidden-window or as-is capture; the PNG lands in the draft as a normal image attachment. Also exposes a `screenshot` agent tool."
+  }
+}

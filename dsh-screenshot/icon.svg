@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Composer Screenshot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7fe0"/>
+      <stop offset="1" stop-color="#1b4f9c"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
+  <path d="M15 18h8M15 18v8M49 18h-8M49 18v8M15 46h8M15 46v-8M49 46h-8M49 46v-8"
+        fill="none" stroke="#cfe4ff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M24 27.5h3.6l1.9-2.6h5l1.9 2.6H40a1.6 1.6 0 0 1 1.6 1.6v9.4A1.6 1.6 0 0 1 40 40.1H24a1.6 1.6 0 0 1-1.6-1.6v-9.4A1.6 1.6 0 0 1 24 27.5Z"
+        fill="#ffffff" fill-opacity="0.18" stroke="#ffffff" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="32" cy="33.6" r="3.9" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="41" cy="22" r="2.6" fill="#ffd166"/>
+</svg>
